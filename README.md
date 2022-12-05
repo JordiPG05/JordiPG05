@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JordiPG05
 - 👀 I’m interested in Sport Data
 - 🌱 I’m currently learning Big Data on Sport Data Campus
-- 💞️ I’m looking to collaborate on Sport Analytics
+- 💞️ I’m looking to collaborate on Sport Data Science
 - 📫 You can contact me on my Twitter @jordipg05 or at jordipompas00@gmail.com.
 
 <!---
