@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @JordiPG05<br>👀 I’m interested in Sport Data<br>🧑‍🎓 I’m currently learning Big Data on Sport Data Campus<br>🚀 I’m looking to collaborate on Sport Data Science<br>📫 You can contact me on my Twitter @jordipg05 or at jordipompas00@gmail.com.
+👋 Hi, I’m @JordiPG05<br>👀 I’m interested in Data Tech<br>🧑‍🎓 I’m currently learning Advanced Deep Learning on TECHTITUTE<br>🚀 I’m looking to collaborate on Data Science and Predictive models<br>📫 You can contact me on my Twitter @jordipg05 or at jordipompas00@gmail.com.
 
 
 ## 🌐 Socials:
