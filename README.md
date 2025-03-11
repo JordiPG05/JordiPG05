@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jordi Pompas<br>⚡ Working on Bravent #BraventIA<br>👀 I’m interested in Data Tech<br>🚀 I’m looking to collaborate on AI generation and Deep Learning models<br>📫 You can contact me on my Twitter (@jordipg05) or LinkedIn<br>
+👋 Hi, I’m Jordi Pompas<br>⚡ Working on Bravent<br>👀 I’m interested in AI and data science<br>🚀 I’m looking to collaborate on AI and Deep Learning projects<br>📫 You can contact me on my by LinkedIn<br>
 
 
 ## 🌐 Socials:
