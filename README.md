@@ -1,5 +1,5 @@
 # 🤖 About Me:
-👋 Hi, I’m Jordi Pompas<br>⚡ Working on Bravent<br>👀 I’m interested in AI and data science. Learning Pentesting<br>🚀 Collaborating on AI and Deep Learning FinTech projects and CTF challenges<br>📫 You can contact me on LinkedIn<br>
+👋 Hi, I’m Jordi Pompas<br>⚡ Senior AI Technical Lead on Bravent<br>👀 I’m interested in AI and data science. Learning Ciber Security<br>🚀 Collaborating on AI and Deep Learning FinTech projects and CTF challenges<br>📫 You can contact me on LinkedIn<br>
 
 
 ## 🌐 Socials:
